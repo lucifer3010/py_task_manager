@@ -1,2 +1,2 @@
 # git_test
-this for personal usage
+Github Repository for python and data analysis projects
